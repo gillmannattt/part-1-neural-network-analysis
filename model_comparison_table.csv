@@ -1,0 +1,4 @@
+Experiment,Hidden Layers,Activation,Learning Rate,Batch Size,Max Iterations,Test Accuracy,Test Loss
+Exp 1,"(32,)",relu,0.001,32,80,0.985,0.2291
+Exp 2,"(64, 32)",relu,0.001,32,100,0.985,0.1009
+Exp 3,"(128, 64)",tanh,0.0005,64,120,0.9825,0.2499
